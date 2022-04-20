@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdelhakim. You can call me Abood 😊
 - 👀 I'm keen on Operating systems, and C Language and C++
-- 🌱 I’m currently learning ReactJS, ExpressJS, Git, Linux 
+- 🌱 I’m currently learning ReactJS, ExpressJS, C#, Git, Linux 
 - 💞️ I'd love to collabroate on any of the above
 - 📫 You can reach me on my :
   - **Facebook** : Abdelhakim Merzoug
