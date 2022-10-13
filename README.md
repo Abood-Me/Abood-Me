@@ -1,13 +1,12 @@
-- 👋 Hi, I’m Abdelhakim. You can call me Abood 😊
-- 👀 I'm keen on Operating systems, and C Language and C++
-- 🌱 I’m currently learning ReactJS, ExpressJS, C#, Git, Linux 
-- 💞️ I'd love to collabroate on any of the above
-- 📫 You can reach me on my :
-  - **Facebook** : Abdelhakim Merzoug
-  - **Twitter** : @sudo_blue
-  - **Email** : abdelhakim.merzoug00@gmail.com
+<div align="center">
+  <h2>Hi!</h2>
+  I am a self taught C#, JavaScript hobbyist and also a physicist.
+</div>
 
-<!---
-sudo-node/sudo-node is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<h3>Socials</h3>
+ <a href="https://twiter.com/sudo_blue"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/sudo_blue?color=%231DA1F2&style=for-the-badge"></a>
+ 
+ <a href="https:/facebook.com/sudoblue"><img alt="Facebook Message" src="https://img.shields.io/static/v1?style=for-the-badge&logo=facebook&message=Send%20a%20message&label=Facebook&color=1877F2"></a>
+  
+**Email** : abdelhakim.merzoug00@gmail.com  
