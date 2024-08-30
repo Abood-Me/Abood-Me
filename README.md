@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hi!</h2>
-  I am a self taught C#, JavaScript hobbyist and also a physicist.
+  I am a self taught C#, JavaScript hobbyist and also a Medical physicist.
 </div>
 
 
